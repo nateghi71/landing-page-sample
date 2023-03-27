@@ -1,0 +1,77 @@
+#wrap{
+    direction: rtl;
+    margin: 0 30px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+header{
+    background-color: #1a202c;
+    color: #e5e7eb;
+    font-size: 24px;
+    padding: 10px 25px;
+}
+
+footer{
+    background-color: #1a202c;
+    color: #e5e7eb;
+    font-size: 16px;
+    padding: 30px 1px;
+    text-align: center;
+}
+
+#title{
+    margin: 0;
+    padding-top: 30px;
+    color: dodgerblue;
+    text-align: center;
+    font-size: 36px;
+    line-height: 140%;
+}
+
+#email-section
+{
+    background-color: gainsboro;
+}
+
+.email-img{
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.email-form{
+    float: left;
+    margin-top: 80px;
+    margin-left: 150px;
+    padding: 10px;
+    background-color: #718096;
+    width: 300px;
+    text-align: center;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.input{
+    padding:10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    width: 260px;
+}
+
+.label-form{
+    font-size: 24px;
+    margin: 10px;
+    text-align: right;
+}
+
+.btn-form{
+    font-size: 24px;
+    margin: 5px 0;
+    border-radius: 5px;
+    width: 260px;
+    padding:5px;
+    background-color: firebrick;
+}
+
